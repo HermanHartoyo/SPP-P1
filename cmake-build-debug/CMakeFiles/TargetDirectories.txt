@@ -1,0 +1,3 @@
+C:/TU Darmstadt/Sem3/SPP/SPP Praktikum 1/code_task/cmake-build-debug/CMakeFiles/code_task.dir
+C:/TU Darmstadt/Sem3/SPP/SPP Praktikum 1/code_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/TU Darmstadt/Sem3/SPP/SPP Praktikum 1/code_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
